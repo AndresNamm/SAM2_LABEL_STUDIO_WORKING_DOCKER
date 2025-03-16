@@ -1,0 +1,2 @@
+- In docker compose <REPLACE WITH YOUR OWN> replace with your own configuration
+- Works on WSL 2 with Cuda Enabled
